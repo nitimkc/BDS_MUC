@@ -1,0 +1,498 @@
+case "AFG":
+	return "Asia";
+case "ALA":
+	return "Europe";
+case "ALB":
+	return "Europe";
+case "DZA":
+	return "Africa";
+case "ASM":
+	return "Oceania";
+case "AND":
+	return "Europe";
+case "AGO":
+	return "Africa";
+case "AIA":
+	return "Americas";
+case "ATA":
+	return "";
+case "ATG":
+	return "Americas";
+case "ARG":
+	return "Americas";
+case "ARM":
+	return "Asia";
+case "ABW":
+	return "Americas";
+case "AUS":
+	return "Oceania";
+case "AUT":
+	return "Europe";
+case "AZE":
+	return "Asia";
+case "BHS":
+	return "Americas";
+case "BHR":
+	return "Asia";
+case "BGD":
+	return "Asia";
+case "BRB":
+	return "Americas";
+case "BLR":
+	return "Europe";
+case "BEL":
+	return "Europe";
+case "BLZ":
+	return "Americas";
+case "BEN":
+	return "Africa";
+case "BMU":
+	return "Americas";
+case "BTN":
+	return "Asia";
+case "BOL":
+	return "Americas";
+case "BES":
+	return "Americas";
+case "BIH":
+	return "Europe";
+case "BWA":
+	return "Africa";
+case "BVT":
+	return "";
+case "BRA":
+	return "Americas";
+case "IOT":
+	return "";
+case "BRN":
+	return "Asia";
+case "BGR":
+	return "Europe";
+case "BFA":
+	return "Africa";
+case "BDI":
+	return "Africa";
+case "KHM":
+	return "Asia";
+case "CMR":
+	return "Africa";
+case "CAN":
+	return "Americas";
+case "CPV":
+	return "Africa";
+case "CYM":
+	return "Americas";
+case "CAF":
+	return "Africa";
+case "TCD":
+	return "Africa";
+case "CHL":
+	return "Americas";
+case "CHN":
+	return "Asia";
+case "CXR":
+	return "";
+case "CCK":
+	return "";
+case "COL":
+	return "Americas";
+case "COM":
+	return "Africa";
+case "COG":
+	return "Africa";
+case "COD":
+	return "Africa";
+case "COK":
+	return "Oceania";
+case "CRI":
+	return "Americas";
+case "CIV":
+	return "Africa";
+case "HRV":
+	return "Europe";
+case "CUB":
+	return "Americas";
+case "CUW":
+	return "Americas";
+case "CYP":
+	return "Asia";
+case "CZE":
+	return "Europe";
+case "DNK":
+	return "Europe";
+case "DJI":
+	return "Africa";
+case "DMA":
+	return "Americas";
+case "DOM":
+	return "Americas";
+case "ECU":
+	return "Americas";
+case "EGY":
+	return "Africa";
+case "SLV":
+	return "Americas";
+case "GNQ":
+	return "Africa";
+case "ERI":
+	return "Africa";
+case "EST":
+	return "Europe";
+case "ETH":
+	return "Africa";
+case "FLK":
+	return "Americas";
+case "FRO":
+	return "Europe";
+case "FJI":
+	return "Oceania";
+case "FIN":
+	return "Europe";
+case "FRA":
+	return "Europe";
+case "GUF":
+	return "Americas";
+case "PYF":
+	return "Oceania";
+case "ATF":
+	return "";
+case "GAB":
+	return "Africa";
+case "GMB":
+	return "Africa";
+case "GEO":
+	return "Asia";
+case "DEU":
+	return "Europe";
+case "GHA":
+	return "Africa";
+case "GIB":
+	return "Europe";
+case "GRC":
+	return "Europe";
+case "GRL":
+	return "Americas";
+case "GRD":
+	return "Americas";
+case "GLP":
+	return "Americas";
+case "GUM":
+	return "Oceania";
+case "GTM":
+	return "Americas";
+case "GGY":
+	return "Europe";
+case "GIN":
+	return "Africa";
+case "GNB":
+	return "Africa";
+case "GUY":
+	return "Americas";
+case "HTI":
+	return "Americas";
+case "HMD":
+	return "";
+case "VAT":
+	return "Europe";
+case "HND":
+	return "Americas";
+case "HKG":
+	return "Asia";
+case "HUN":
+	return "Europe";
+case "ISL":
+	return "Europe";
+case "IND":
+	return "Asia";
+case "IDN":
+	return "Asia";
+case "IRN":
+	return "Asia";
+case "IRQ":
+	return "Asia";
+case "IRL":
+	return "Europe";
+case "IMN":
+	return "Europe";
+case "ISR":
+	return "Asia";
+case "ITA":
+	return "Europe";
+case "JAM":
+	return "Americas";
+case "JPN":
+	return "Asia";
+case "JEY":
+	return "Europe";
+case "JOR":
+	return "Asia";
+case "KAZ":
+	return "Asia";
+case "KEN":
+	return "Africa";
+case "KIR":
+	return "Oceania";
+case "PRK":
+	return "Asia";
+case "KOR":
+	return "Asia";
+case "KWT":
+	return "Asia";
+case "KGZ":
+	return "Asia";
+case "LAO":
+	return "Asia";
+case "LVA":
+	return "Europe";
+case "LBN":
+	return "Asia";
+case "LSO":
+	return "Africa";
+case "LBR":
+	return "Africa";
+case "LBY":
+	return "Africa";
+case "LIE":
+	return "Europe";
+case "LTU":
+	return "Europe";
+case "LUX":
+	return "Europe";
+case "MAC":
+	return "Asia";
+case "MKD":
+	return "Europe";
+case "MDG":
+	return "Africa";
+case "MWI":
+	return "Africa";
+case "MYS":
+	return "Asia";
+case "MDV":
+	return "Asia";
+case "MLI":
+	return "Africa";
+case "MLT":
+	return "Europe";
+case "MHL":
+	return "Oceania";
+case "MTQ":
+	return "Americas";
+case "MRT":
+	return "Africa";
+case "MUS":
+	return "Africa";
+case "MYT":
+	return "Africa";
+case "MEX":
+	return "Americas";
+case "FSM":
+	return "Oceania";
+case "MDA":
+	return "Europe";
+case "MCO":
+	return "Europe";
+case "MNG":
+	return "Asia";
+case "MNE":
+	return "Europe";
+case "MSR":
+	return "Americas";
+case "MAR":
+	return "Africa";
+case "MOZ":
+	return "Africa";
+case "MMR":
+	return "Asia";
+case "NAM":
+	return "Africa";
+case "NRU":
+	return "Oceania";
+case "NPL":
+	return "Asia";
+case "NLD":
+	return "Europe";
+case "NCL":
+	return "Oceania";
+case "NZL":
+	return "Oceania";
+case "NIC":
+	return "Americas";
+case "NER":
+	return "Africa";
+case "NGA":
+	return "Africa";
+case "NIU":
+	return "Oceania";
+case "NFK":
+	return "Oceania";
+case "MNP":
+	return "Oceania";
+case "NOR":
+	return "Europe";
+case "OMN":
+	return "Asia";
+case "PAK":
+	return "Asia";
+case "PLW":
+	return "Oceania";
+case "PSE":
+	return "Asia";
+case "PAN":
+	return "Americas";
+case "PNG":
+	return "Oceania";
+case "PRY":
+	return "Americas";
+case "PER":
+	return "Americas";
+case "PHL":
+	return "Asia";
+case "PCN":
+	return "Oceania";
+case "POL":
+	return "Europe";
+case "PRT":
+	return "Europe";
+case "PRI":
+	return "Americas";
+case "QAT":
+	return "Asia";
+case "REU":
+	return "Africa";
+case "ROU":
+	return "Europe";
+case "RUS":
+	return "Europe";
+case "RWA":
+	return "Africa";
+case "BLM":
+	return "Americas";
+case "SHN":
+	return "Africa";
+case "KNA":
+	return "Americas";
+case "LCA":
+	return "Americas";
+case "MAF":
+	return "Americas";
+case "SPM":
+	return "Americas";
+case "VCT":
+	return "Americas";
+case "WSM":
+	return "Oceania";
+case "SMR":
+	return "Europe";
+case "STP":
+	return "Africa";
+case "SAU":
+	return "Asia";
+case "SEN":
+	return "Africa";
+case "SRB":
+	return "Europe";
+case "SYC":
+	return "Africa";
+case "SLE":
+	return "Africa";
+case "SGP":
+	return "Asia";
+case "SXM":
+	return "Americas";
+case "SVK":
+	return "Europe";
+case "SVN":
+	return "Europe";
+case "SLB":
+	return "Oceania";
+case "SOM":
+	return "Africa";
+case "ZAF":
+	return "Africa";
+case "SGS":
+	return "";
+case "SSD":
+	return "Africa";
+case "ESP":
+	return "Europe";
+case "LKA":
+	return "Asia";
+case "SDN":
+	return "Africa";
+case "SUR":
+	return "Americas";
+case "SJM":
+	return "Europe";
+case "SWZ":
+	return "Africa";
+case "SWE":
+	return "Europe";
+case "CHE":
+	return "Europe";
+case "SYR":
+	return "Asia";
+case "TWN":
+	return "Asia";
+case "TJK":
+	return "Asia";
+case "TZA":
+	return "Africa";
+case "THA":
+	return "Asia";
+case "TLS":
+	return "Asia";
+case "TGO":
+	return "Africa";
+case "TKL":
+	return "Oceania";
+case "TON":
+	return "Oceania";
+case "TTO":
+	return "Americas";
+case "TUN":
+	return "Africa";
+case "TUR":
+	return "Asia";
+case "TKM":
+	return "Asia";
+case "TCA":
+	return "Americas";
+case "TUV":
+	return "Oceania";
+case "UGA":
+	return "Africa";
+case "UKR":
+	return "Europe";
+case "ARE":
+	return "Asia";
+case "GBR":
+	return "Europe";
+case "USA":
+	return "Americas";
+case "UMI":
+	return "";
+case "URY":
+	return "Americas";
+case "UZB":
+	return "Asia";
+case "VUT":
+	return "Oceania";
+case "VEN":
+	return "Americas";
+case "VNM":
+	return "Asia";
+case "VGB":
+	return "Americas";
+case "VIR":
+	return "Americas";
+case "WLF":
+	return "Oceania";
+case "ESH":
+	return "Africa";
+case "YEM":
+	return "Asia";
+case "ZMB":
+	return "Africa";
+case "ZWE":
+	return "Africa";
