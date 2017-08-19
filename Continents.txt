@@ -7,7 +7,6 @@ ASM	Oceania
 AND	Europe
 AGO	Africa
 AIA	Americas
-ATA	
 ATG	Americas
 ARG	Americas
 ARM	Asia
@@ -29,9 +28,7 @@ BOL	Americas
 BES	Americas
 BIH	Europe
 BWA	Africa
-BVT	
 BRA	Americas
-IOT	
 BRN	Asia
 BGR	Europe
 BFA	Africa
@@ -45,8 +42,6 @@ CAF	Africa
 TCD	Africa
 CHL	Americas
 CHN	Asia
-CXR	
-CCK	
 COL	Americas
 COM	Africa
 COG	Africa
@@ -77,7 +72,6 @@ FIN	Europe
 FRA	Europe
 GUF	Americas
 PYF	Oceania
-ATF	
 GAB	Africa
 GMB	Africa
 GEO	Asia
@@ -95,7 +89,6 @@ GIN	Africa
 GNB	Africa
 GUY	Americas
 HTI	Americas
-HMD	
 VAT	Europe
 HND	Americas
 HKG	Asia
@@ -205,7 +198,6 @@ SVN	Europe
 SLB	Oceania
 SOM	Africa
 ZAF	Africa
-SGS	
 SSD	Africa
 ESP	Europe
 LKA	Asia
@@ -235,7 +227,6 @@ UKR	Europe
 ARE	Asia
 GBR	Europe
 USA	Americas
-UMI	
 URY	Americas
 UZB	Asia
 VUT	Oceania
